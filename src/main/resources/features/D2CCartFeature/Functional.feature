@@ -2,7 +2,7 @@
 Feature: PDP: This feature deals with the Field Validation of the application
 
   Background:
-#    Given user enter valid account credentials
+#    Given user enter valid account  credentials
     When user navigate to D2C page
     And user click on product in D2C page
     Then user should see Checkout button
